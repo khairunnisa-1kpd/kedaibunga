@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>KEDAI BUNGA XYZ</title>
+    </head>
+
+   <body>
+
+    <h1>SELAMAT DATANG KE KEDAI BUNGA XYZ</h1>
+
+    <h2>SENARAI PRODUK</h2>
+    <div class="produk">
+        <img src="gambar_mawar.jpeg" alt="Bunga Mawar" height="200px">
+        <h3>Bunga Mawar</h3>
+        <p>Harga:RM10.00</p>
+        <button>Tambah ke Troli</button>
+    </div>
+
+    <div class="produk">
+        <img src="gambar_kekwa.jpeg" alt="Bunga Kekwa" height="200px">
+        <h3>Bunga Kekwa</h3>
+        <p>Harga:RM15.00</p>
+        <button>Tambah ke Troli</button>
+    </div>
+
+    <div class="produk">
+        <img src="gambar_tulip.jpeg" alt="Bunga Tulip" height="200px">
+        <h3>Bunga Tulip</h3>
+        <p>Harga:RM20.00</p>
+        <button>Tambah ke Troli</button>
+    </div>
+    
+    <div class="produk">
+        <img src="gambar_daisi.jpeg" alt="Bunga Daisi" height="200px">
+        <h3>Bunga Daisi</h3>
+        <p>Harga:RM25.00</p>
+        <button>Tambah ke Troli</button>
+    </div>
+   </body>
+</html>
